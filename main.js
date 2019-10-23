@@ -48,7 +48,6 @@ myButton.addEventListener('click', (e) => {
     )
 })
 
-
 /*
 let request = new XMLHttpRequest() //声明一个 XMLHttpRequest 对象
 request.open('POST', '/xxx')  //配置 request  参数（method、URL），（设置第一部分）
